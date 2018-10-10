@@ -1,4 +1,4 @@
-// greeting.js
+// src/greeting.js
 
 function greeting(name) {
 	return ("Hello, " + name + "!");
